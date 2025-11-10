@@ -2,20 +2,6 @@
 description: >-
   Location & Time -- Potomac V; 1:00pm-5:00pm EST
   https://www.conftool.org/asist2025/index.php?page=browseSessions&form_session=764#paperID144
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Schedule \[15 Nov 2025]
